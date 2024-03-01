@@ -57,6 +57,7 @@
     "escape-string-regexp": "^1.0.5",
     "fill-range": "^7.0.1",
     "fractional": "^1.0.0",
+    "fracty": "^1.0.11",
     "fsevents": "^2.3.3",
     "get-port": "^4.2.0",
     "glob-parent": "^5.1.2",
