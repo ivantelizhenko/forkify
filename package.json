@@ -130,7 +130,7 @@
   },
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --no-scope-hoist"
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Ivan Telizhenko",
   "license": "ISC",
