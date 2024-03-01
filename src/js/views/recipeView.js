@@ -1,5 +1,4 @@
 import icons from 'url:../../img/icons.svg'; //Parcel 2
-import { Fraction } from 'fractional';
 import fracty from 'fracty';
 import View from './View.js';
 
